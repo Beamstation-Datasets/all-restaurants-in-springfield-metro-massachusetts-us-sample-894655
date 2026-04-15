@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining data for the Springfield (Metro), Massachusetts metro region, encompassing Springfield. Spans multiple municipalities within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Springfield (Metro), Massachusetts, US",
+  "export_job_id": "86b3b515-dda8-46d1-9250-b5bbc2333e03",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 894655,
+  "location_name": "Springfield, MA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-springfield-metro-massachusetts-us-sample-894655",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/894655/beamstation_894655_restaurants-us-springfieldma_SAMPLE_DIST.csv",
+  "sample_pct": 10.61,
+  "sample_records": 117,
+  "sample_sha256": "e1d72a8c0737685a4cf70636e6f6b4e193525aa1363b6d550d276c8992edbbc8",
+  "sample_size_bytes": 405101,
+  "total_records": 1103,
+  "updated_at": "2026-03-31T16:18:56.965851+00:00"
+}
