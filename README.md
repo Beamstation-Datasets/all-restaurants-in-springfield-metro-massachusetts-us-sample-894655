@@ -9,9 +9,9 @@
 | Dataset ID | `894655` |
 | Location | Springfield, MA |
 | Category | Restaurants |
-| Full dataset size | 1,103 records |
-| Free sample size | 117 records (10.61%) |
-| Last export | 2026-03-31T16:18:56.965851+00:00 |
+| Full dataset size | 1,170 records |
+| Free sample size | 117 records (10.0%) |
+| Last export | 2026-04-14T17:13:05.734743+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-springfield-metro-massachusetts-us-sample-894655/releases/download/sample-latest/beamstation_894655_restaurants-us-springfieldma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
