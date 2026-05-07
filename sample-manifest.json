@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b63275cc-b947-4f29-aad8-19e210403440",
+  "export_job_id": "3aa5ac2c-38c4-4bfd-bfb7-b89da1786693",
   "id_short": 894655,
-  "published_at": "2026-04-29T07:10:23Z",
+  "published_at": "2026-05-07T19:10:39Z",
   "repo_name": "all-restaurants-in-springfield-metro-massachusetts-us-sample-894655",
   "sample_asset_name": "beamstation_894655_restaurants-us-springfieldma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/894655/beamstation_894655_restaurants-us-springfieldma_SAMPLE_DIST.csv",
-  "sample_records": 115,
-  "sample_sha256": "0db46bc8f4a2182e00a0e0e44733a50e3c2f510465e703a099bf7aafe1c4ffca",
-  "sample_size_bytes": 348221,
-  "total_records": 1158
+  "sample_records": 118,
+  "sample_sha256": "1e59d4495e491069581ebe993b792a797ca7426ca6f58cfe04f9c1ce39b4de35",
+  "sample_size_bytes": 398945,
+  "total_records": 1184
 }
